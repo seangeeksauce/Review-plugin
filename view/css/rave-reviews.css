@@ -1,0 +1,25 @@
+/*------------------------------
+ -------- DEALER REVIEWS -------
+ -------- PLUGIN STYLING -------
+ -------------------------------*/
+
+.dealer-reviews-container{width:100%; margin:0 auto 90px auto; padding-bottom: }
+
+.dealer-reviews-content{width:55%; margin:0 auto; text-align:center;font-family:Arial,sans-serif;}
+a.dealer-reviews-links{text-decoration: none!important;}
+
+.dealer-reviews-intro{font-size:18px;}
+.dealer-reviews-content h2{font-family:'Arial',sans-serif;}
+.dealer-reviews-intro-image{margin-right: 25px;}
+
+
+.dealer-reviews-sharing-intro{font-size:20px; line-height:26px;}
+.dealer-reviews-social-media{margin-bottom:25px;}
+.dealer-reviews-sharing textarea{width:100%; padding:15px; font-size:16px; font-family:'Arial', sans-serif;}
+
+.dealer-reviews-input{display: block; width:100%; border:1px solid #333; padding:7px 10px; font-size: 14px; margin-bottom: 15px;}
+.dealer-reviews-textarea{display: block; width: 100%; border:1px solid #333; padding:7px 10px; font-size: 14px; margin-bottom: 15px; min-height: 200px;}
+button.dealer-reviews-submit{font-size:14px; background-color: #1B3C6F; color:#fff; border:none; padding: 10px; width:150px; float:right;}
+a.copy-to-clipboard {font-size: 16px; background-color: #1B3C6F; color: #fff!important; border: none; padding: 15px 10px; width: 160px; display: block; margin: 25px auto 0 auto; text-decoration: none!important;}
+input[type="checkbox"]{margin-right: 10px; float:left;}
+label{float: left;}
